@@ -167,7 +167,6 @@ btnNuevo.addEventListener('click', () => {
     divCartasJugador.innerHTML = '';
 
 
-
     btnPedir.disabled = false;
     btnDetener.disabled = false;
 });
